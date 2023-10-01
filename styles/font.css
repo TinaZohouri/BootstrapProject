@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Nunito";
+  src: url("../assets/Fonts/Nunito-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nunito-me";
+  src: url("../assets/Fonts/Nunito-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nunito-sb";
+  src: url("../assets/Fonts/Nunito-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nunito-b";
+  src: url("../assets/Fonts/Nunito-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "open";
+  src: url("../assets/Fonts/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "open-me";
+  src: url("../assets/Fonts/OpenSans-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "open-sb";
+  src: url("../assets/Fonts/OpenSans-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "open-b";
+  src: url("../assets/Fonts/OpenSans-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop";
+  src: url("../assets/Fonts/Poppins-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop-me";
+  src: url("../assets/Fonts/Poppins-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop-sb";
+  src: url("../assets/Fonts/Poppins-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop-b";
+  src: url("../assets/Fonts/Poppins-Bold.ttf") format("truetype");
+}
