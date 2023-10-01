@@ -52,6 +52,9 @@
     .nav-btn{
         padding: .8rem 1rem;
     }
+    .logo-name{
+        font-size: 2rem;
+    }
 }
 @media screen and (max-width:380px) {
     .logo-name{
