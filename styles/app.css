@@ -27,7 +27,7 @@ body {
 .logo-web {
   margin-right: 1rem;
 }
-.logo-name {
+.logo-name__header {
   text-decoration: none;
   color: #012970;
   font-family: "Nunito-b";
